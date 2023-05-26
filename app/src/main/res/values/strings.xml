@@ -2,152 +2,153 @@
 
     <string name="repo">saikou-app/saikou</string>
 
-    <string name="app_name">Saikou</string>
-    <string name="slogan">The Best Anime &amp; Manga app for Android.</string>
+    <string name="app_name">Saikou IN</string>
+    <string name="slogan">Aplikasi Anime &amp; Manga Terbaik Untuk Android</string>
+    
 
-    <string name="login">Login</string>
-    <string name="logout">Logout</string>
+    <string name="login">Masuk</string>
+    <string name="logout">Keluar Akun</string>
 
     <string name="discord">https://discord.gg/2T7TunuwFZ</string>
     <string name="telegram">https://telegram.me/saikou_app</string>
     <string name="github">https://github.com/saikou-app/saikou</string>
 
-    <string name="home">Home</string>
+    <string name="home">Beranda</string>
     <string name="anime">Anime</string>
-    <string name="browse_anime">Browse Anime</string>
+    <string name="browse_anime">Cari Anime</string>
     <string name="manga">Manga</string>
-    <string name="browse_manga">Browse Manga</string>
+    <string name="browse_manga">Cari Manga</string>
     <string name="info">Info</string>
-    <string name="watch">Watch</string>
-    <string name="read">Read</string>
+    <string name="watch">Tonton</string>
+    <string name="read">Baca</string>
 
-    <string name="anime_list">Anime List</string>
-    <string name="manga_list">Manga List</string>
+    <string name="anime_list">Daftar Anime</string>
+    <string name="manga_list">Daftar Manga</string>
 
     <string name="sad">X(</string>
     <string name="oh">:o</string>
     <string name="colon">" : "</string>
 
-    <string name="no_internet">No Internet Connection</string>
-    <string name="refresh">Refresh</string>
+    <string name="no_internet">Tidak Ada Koneksi Internet</string>
+    <string name="refresh">Perbarui</string>
 
-    <string name="search">Search</string>
-    <string name="search_results">Search Results</string>
-    <string name="sort_by">Sort By</string>
+    <string name="search">Cari</string>
+    <string name="search_results">Hasil Pencarian</string>
+    <string name="sort_by">Urut Berdasarkan</string>
     <string name="genre">Genre</string>
-    <string name="top_score">Top Score</string>
-    <string name="updated">Recently Updated</string>
-    <string name="trending_anime">Trending Anime</string>
-    <string name="popular_anime">Popular Anime</string>
-    <string name="trending_manga">Trending Manga</string>
-    <string name="trending_novel">Trending Novel</string>
-    <string name="popular_manga">Popular Manga</string>
+    <string name="top_score">Skor Paling Tinggi</string>
+    <string name="updated">Baru Diupdate</string>
+    <string name="trending_anime">Anime yang sedang Trending</string>
+    <string name="popular_anime">Anime yang sedang Popular</string>
+    <string name="trending_manga">Manga yang sedang Trending</string>
+    <string name="trending_novel">Novel yang sedang Trending</string>
+    <string name="popular_manga">Manga yang sedang Popular</string>
 
     <string name="username">Username</string>
-    <string name="chapters_read">"Chapters Read "</string>
-    <string name="episodes_watched">"Episodes Watched "</string>
-    <string name="continue_reading">Continue Reading</string>
-    <string name="continue_watching">Continue Watching</string>
-    <string name="recommended">Recommended</string>
+    <string name="chapters_read">"Chapter yang sudah dibaca"</string>
+    <string name="episodes_watched">"Episodes yang telah ditonton "</string>
+    <string name="continue_reading">Lanjut Membaca</string>
+    <string name="continue_watching">Lanjut Menonton</string>
+    <string name="recommended">Direkomendasikan</string>
 
-    <string name="get_recommendations">Watch/Read some Anime or Manga to get Recommendations</string>
-    <string name="empty">All caught up, when New?</string>
-    <string name="action_settings">Settings</string>
+    <string name="get_recommendations">Tonton/Baca Anime atau Manga untuk mendapatkan Rekomendasi</string>
+    <string name="empty">Udah semua, Kapan yang barunya?</string>
+    <string name="action_settings">Pengaturan</string>
 
-    <string name="add">Add to List</string>
-    <string name="list_editor">List Editor</string>
-    <string name="add_fav">Add to Favourites</string>
-    <string name="notifications">Notifications</string>
+    <string name="add">Tambahkan ke daftar</string>
+    <string name="list_editor">Edit daftar</string>
+    <string name="add_fav">Tambahkan ke favorit</string>
+    <string name="notifications">Notifikasi</string>
     <string name="status">STATUS</string>
     <string-array name="status">
-        <item>PLANNING</item>
-        <item>CURRENT</item>
-        <item>COMPLETED</item>
-        <item>REPEATING</item>
-        <item>PAUSED</item>
-        <item>DROPPED</item>
+        <item>RENCANA</item>
+        <item>SEDANG DITONTON/DIBACA</item>
+        <item>SELESAI</item>
+        <item>NGULANG</item>
+        <item>DIPAUSE</item>
+        <item>BERHENTI</item>
     </string-array>
     <string name="progress">PROGRESS</string>
-    <string name="score">SCORE</string>
+    <string name="score">SKOR</string>
     <string name="score_suffix">" / 10"</string>
-    <string name="started_at">STARTED AT</string>
-    <string name="completed_at">COMPLETED AT</string>
-    <string name="save">Save</string>
-    <string name="delete">Delete</string>
+    <string name="started_at">Mulai Pada</string>
+    <string name="completed_at">Selesai Pada</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
 
-    <string name="name">Name</string>
-    <string name="name_romaji">Name Romaji</string>
-    <string name="mean_score">Mean Score</string>
+    <string name="name">Nama</string>
+    <string name="name_romaji">Nama Romaji</string>
+    <string name="mean_score">Skor Kasar</string>
     <string name="format">Format</string>
     <string name="status_title">Status</string>
-    <string name="total_eps">Total Episodes</string>
-    <string name="total_chaps">Total Chapters</string>
-    <string name="ep_duration">Average Duration</string>
+    <string name="total_eps">Total Episode</string>
+    <string name="total_chaps">Total Chapter</string>
+    <string name="ep_duration">Durasi Normal</string>
     <string name="min">" min"</string>
-    <string name="season">Season</string>
-    <string name="start_date">Start Date</string>
-    <string name="end_date">End Date</string>
-    <string name="source">Source</string>
+    <string name="season">Musim</string>
+    <string name="start_date">Tanggal Mulai</string>
+    <string name="end_date">Tanggal Selesai</string>
+    <string name="source">Sumber</string>
     <string name="main_studio">Studio</string>
-    <string name="genres">Genres</string>
-    <string name="description">Synopsis</string>
-    <string name="characters">Characters</string>
-    <string name="relations">Relations</string>
+    <string name="genres">Genre</string>
+    <string name="description">Sinopsis</string>
+    <string name="characters">Karakter</string>
+    <string name="relations">Hubungan</string>
 
-    <string name="roles">Roles</string>
-    <string name="details">Details</string>
+    <string name="roles">Peran</string>
+    <string name="details">Detail</string>
 
-    <string name="play_yt">Play on Youtube</string>
+    <string name="play_yt">Mainkan di Youtube</string>
     <string name="eps">Episodes</string>
     <string name="ep">Episode</string>
     <string name="chaps">Chapters</string>
     <string name="chap">Chapter</string>
-    <string name="wrong"><u>Wrong Title?</u></string>
+    <string name="wrong"><u>Salah Judul?</u></string>
     <string name="source_not_found">
-        Couldn\'t find anything X( \n
-        Try another source.
+        Ga nemu apa-apaX( \n
+        Coba sumber lain.
     </string>
-    <string name="not_supported">%1$s is not supported yet!</string>
-    <string name="server_selector">Select Server</string>
-    <string name="auto_select_server">Auto Selecting Server</string>
-    <string name="make_default">Make Default</string>
-    <string name="filler">Filler</string>
-    <string name="adult">Adult</string>
-    <string name="list_only">List Only</string>
-    <string name="tag">Tag</string>
-    <string name="tags">Tags</string>
-    <string name="synonyms">Synonyms</string>
+    <string name="not_supported">%1$s masih belum didukung!</string>
+    <string name="server_selector">Pilih Server</string>
+    <string name="auto_select_server">Memilih otomatis server</string>
+    <string name="make_default">Jadikan Default</string>
+    <string name="filler">Pengisi</string>
+    <string name="adult">Dewasa</string>
+    <string name="list_only">List Saja</string>
+    <string name="tag">Label</string>
+    <string name="tags">Label</string>
+    <string name="synonyms">Sinonim</string>
     <string name="trailer">Trailer</string>
-    <string name="opening">Opening</string>
-    <string name="ending">Ending</string>
-    <string name="prequel">Prequel</string>
-    <string name="sequel">Sequel</string>
+    <string name="opening">Pembuka</string>
+    <string name="ending">Penutup</string>
+    <string name="prequel">Prekuel</string>
+    <string name="sequel">Sekuel</string>
 
-    <string name="anilist_settings">Anilist Settings</string>
-    <string name="downloads">Downloads</string>
-    <string name="settings">Settings</string>
-    <string name="player_settings">Player Settings</string>
-    <string name="recentlyListOnly">Only show My Shows in Recently Updated</string>
+    <string name="anilist_settings">Pengaturan Anilist</string>
+    <string name="downloads">Download</string>
+    <string name="settings">Pengaturan</string>
+    <string name="player_settings">Pengaturan Player</string>
+    <string name="recentlyListOnly">Hanya Tunjukan Acara ku di Baru Diupdate</string>
     <string name="download_manager_select">Download Manager</string>
-    <string name="downloadInSd">Download in SD card</string>
-    <string name="noSdFound">No SD card was Found.</string>
-    <string name="reader_settings">Reader Settings</string>
-    <string name="default_source">Default Source</string>
-    <string name="show_yt">Show Youtube Link</string>
-    <string name="default_ep_view">Default Episode Layout</string>
-    <string name="default_chp_view">Default Chapter Layout</string>
-    <string name="ui">User Interface</string>
-    <string name="common">Common</string>
-    <string name="theme">Theme</string>
-    <string name="ui_settings">UI Settings</string>
-    <string name="about">About</string>
-    <string name="desc">"    Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an Anilist only client, which also lets you stream-download Anime &amp; Manga.\nSaikou literally means the \"best\" in japanese. Well, we would like to say this is the best open source app for anime and manga on Android, what would you say?"</string>
-    <string name="devs">Developers</string>
+    <string name="downloadInSd">Download di Kartu Memori</string>
+    <string name="noSdFound">Tidak ada Kartu Memori Ditemukan.</string>
+    <string name="reader_settings">Pengaturan Reader</string>
+    <string name="default_source">Sumber Default</string>
+    <string name="show_yt">Tunjukan Link Youtube</string>
+    <string name="default_ep_view">Tampilan Default Episode</string>
+    <string name="default_chp_view">Tampilan Default Chapter</string>
+    <string name="ui">Tampilan</string>
+    <string name="common">Biasa</string>
+    <string name="theme">Tema</string>
+    <string name="ui_settings">Pengaturan UI</string>
+    <string name="about">Tentang</string>
+    <string name="desc">"    Saikou dibuat berdasarkan secara sederhana akan tetapi tetap memberikan yang terbaik. Aplikasi ini hanya menggunakan Anilist sebagai client-nya, yang dimana kamu bisa gunakan untuk menonton/mendownload Anime &amp; Manga. Saikou memiliki arti yang \"terbaik" dalam bahasa jepang. Kami tertarik untuk bilang bahwa inilah aplikasi open source terbaik untuk Anime dan Manga di Android, apa pendapatmu?"</string>
+    <string name="devs">Developer</string>
     <string name="disclaimer">Disclaimer</string>
     <string name="full_disclaimer">
-         - Saikou only scrapes links from various websites and makes it easier for users to find anime and manga.
-        \n\n - Saikou or any of its developer/staff doesn\'t host any of the contents found inside Saikou. Any and all images and anime/manga information found in the app are taken from various public APIs (AniList, MyAnimeList, Kitsu).
-        \n\n - Furthermore, all of the anime/manga links found in Saikou are taken from various 3rd party anime hosting websites.
+         - Saikou hanya mengambil beberapa link dari website dan memudahkan pengguna untuk mencari anime dan manga.
+        \n\n - Saikou atau semua developer/staff bukan pemilik dari konten yang ditemukan dalam aplikasi Saikou. Semua gambar dan informasi tentang Anime/Manga yang ada di aplikasi berasal dari beberapa API publik (Anilist, MyAnimeList, Kitsu).
+        \n\n - Lalu, semua link Anime/Furthermore, all of the anime/manga links found in Saikou are taken from various 3rd party anime hosting websites.
         \n\n - Saikou or it\'s owners aren\'t liable for any misuse of any of the contents found inside or outside of the app and cannot be held accountable for the distribution of any of the contents found inside the app.
         \n\n - By using Saikou, you comply to the fact that the developer of the app is not responsible for any of the contents found in the app; nonetheless they may or may not be from their legitimate sources.
         \n\n - If the internet infringement issues are involved, please contact the source website. The developer does not assume any legal responsibility.
